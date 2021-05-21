@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    width: 100%;
+    background-color: #EEEEEE;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 2em;
+    padding: 20px;
+    font-weight: bold;
+}
